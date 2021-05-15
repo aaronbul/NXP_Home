@@ -1,0 +1,13 @@
+https://github.com/Skkay/NXP_Home
+
+"Transmetter des données aves les formulaires" :  https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires
+http://www.c2script.com/scripts/formulaire-de-connexion-en-php-s3.html
+https://www.w3schools.com/html/html_forms.asp
+https://www.w3schools.com/bootstrap/bootstrap_typography.asp
+Form size : https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_size
+
+
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917948-tp-creez-un-espace-membres
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239476-session-cookies
+
+Voir le contenue d'une variable : <?php var_dump($_GET) ?>
